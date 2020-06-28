@@ -16,7 +16,7 @@ git clone https://github.com/CraneStation/cranelift.vim ~/.vim/pack/plugins/star
 
 With [vim-plug], add this to your configuration file:
 ```
-Plug 'CraneStation/cranelift.vim'
+Plug 'CraneStation/cranelift.vim', { 'branch': 'main' }
 ```
 
 [Vim8 packages]: http://vimhelp.appspot.com/repeat.txt.html#packages
